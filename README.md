@@ -28,11 +28,11 @@ Some basic roles you will want to consider:
 1. A review manager - someone to review pull requests and merge or reject them. 
 2. A plan manager - someone to keep an eye on the overall plan and keep the project tab/to-do list up to date 
 3. Roles for team members to take charge or different parts of the project. Possible roles:
-  1. Front end lead
-  2. Back end lead
-  3. Databse lead
-  4. Design lead
-  5. Etc.
+    1. Front end lead
+    2. Back end lead
+    3. Databse lead
+    4. Design lead
+    5. Etc.
 
 You will notice that there are more roles than people in your group.
 That is because you will all be doing a hybrid job of managing a thing while working on other things.
