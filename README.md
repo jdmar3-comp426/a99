@@ -43,6 +43,8 @@ Once all the groups are together, we'll assign each group to an LA to check in w
 
 We will post that so that your team can schedule a time for an initial check-in with your assigned LA. It would be a good idea also to add your LA to your repository.
 
+## Assignment instructions
+
 And that is about all you need to get started.
 
 All the rest of the assignment instructions are available at: https://comp426.johndmart.in/assignments/99
