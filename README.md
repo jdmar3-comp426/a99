@@ -16,7 +16,7 @@ Other steps that you will need to take after you have cloned this repository:
 9. Use **Pull requests** to propose changes and incorporate them into your code from various team members. 
 10. Use **Issues** to identify and track bugs and also to communicate about various aspects of the project.
 
-## Team maangement
+## Team mangement
 
 Plan to meet with your team ASAP.
 Talk through identifying roles within your team.
